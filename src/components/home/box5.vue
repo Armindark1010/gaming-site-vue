@@ -1,12 +1,12 @@
 <template>
   <div class="box5">
     <div class="text-center mt-36 text-3xl font-bold">Our Recent Projects</div>
-    <div class="mt-2 w-1/3 text-center mx-auto">
+    <div class="mt-2 md:w-1/3 text-center mx-auto">
       Lorem Ipsum is simply dummy text of the printing and typesetting industry.
     </div>
-    <div class="flex flex-wrap md:mx-12 mx-6 mt-16">
+    <div class="flex flex-wrap md:mx-12 mx-1 mt-16">
       <div
-        class="md:h-52 h-28 px-3 md:mt-5 mt-2"
+        class="md:h-52 h-28 md:px-3 px-1 md:mt-5 mt-2"
         v-for="(imgs, index) in Our_Recent"
         :class="{
           'w-1/3': index < 3,

@@ -53,11 +53,12 @@
                 
                 </div>
                 <div class="md:mx-10 md:text-base mx-2 text-xs"><router-link to="/Contact-us">
-                    <button type="button" class="inline-block md:py-4 py-2 md:px-8 px-4 rounded-lg bg-orange-500 text-neutral-50 shadow-[0_4px_9px_-4px_rgba(51,45,45,0.7)] hover:bg-amber-600 hover:shadow-[0_8px_9px_-4px_rgba(51,45,45,0.2),0_4px_18px_0_rgba(51,45,45,0.1)] focus:bg-amber-800 focus:shadow-[0_8px_9px_-4px_rgba(51,45,45,0.2),0_4px_18px_0_rgba(51,45,45,0.1)] active:bg-amber-700 active:shadow-[0_8px_9px_-4px_rgba(51,45,45,0.2),0_4px_18px_0_rgba(51,45,45,0.1)] font-medium uppercase leading-normal transition duration-150 ease-in-out focus:outline-none focus:ring-0">Contact us</button>
+                    <button type="button" class="inline-block md:text-2xl text-xs md:py-4 py-1 md:px-8 px-2 text-[9px] rounded-lg bg-orange-500 text-neutral-50 shadow-[0_4px_9px_-4px_rgba(51,45,45,0.7)] hover:bg-amber-600 hover:shadow-[0_8px_9px_-4px_rgba(51,45,45,0.2),0_4px_18px_0_rgba(51,45,45,0.1)] focus:bg-amber-800 focus:shadow-[0_8px_9px_-4px_rgba(51,45,45,0.2),0_4px_18px_0_rgba(51,45,45,0.1)] active:bg-amber-700 active:shadow-[0_8px_9px_-4px_rgba(51,45,45,0.2),0_4px_18px_0_rgba(51,45,45,0.1)] uppercase leading-normal transition duration-150 ease-in-out focus:outline-none focus:ring-0">Contact us</button>
                 <!-- <button class=" bg-orange-500 md:py-4 py-2 md:px-8 px-4 rounded-lg">
                     Contact us
                 </button>
             -->
+                
             </router-link>
             </div>
             </div>

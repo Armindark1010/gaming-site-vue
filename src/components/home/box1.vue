@@ -1,5 +1,5 @@
 <template>
-    <div id="box1" class="box flex">
+    <div id="box1" class="box flex mt-7">
       <!-- linebox1 -->
       <div class="linebox w-1/12 flex items-center justify-center">
         <div id="line1" class="md:w-2 w-0.5 h-0 rounded-lg" style="background: linear-gradient(#39289F, #ffffff, #39289F);"></div>
